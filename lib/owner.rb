@@ -67,6 +67,6 @@ class Owner
   end
   
   def list_pets
-    puts @pets.to_s
+    "I have @pets["
   end
 end
